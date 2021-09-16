@@ -1,7 +1,6 @@
-/* Copyright 2017, DSI FCEIA UNR - Sistemas Digitales 2
+/* Copyright 2021, DSI FCEIA UNR
  *    DSI: http://www.dsi.fceia.unr.edu.ar/
- * Copyright 2017, Diego Alegrechi
- * Copyright 2017, Gustavo Muro
+ * Copyright 2021, Gustavo Muro
  * All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
